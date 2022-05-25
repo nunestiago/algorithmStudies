@@ -21,7 +21,7 @@ public class Solution {
                     break;
                 }
             }
-            Arrays[] res = new ArrayList<Integer>;
+
             if (toSum) {
                 Integer sum = 0;
                 for (int k = 0; k < num.length(); k++) {
