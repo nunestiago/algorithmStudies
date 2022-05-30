@@ -1,4 +1,5 @@
-public class Criptografa {
+package com.sunkenship;
+public class Criptograf {
 
     /**
      * Coloca os caracteres X posiçoes a frente com relaçao a tabela ascII
